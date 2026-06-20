@@ -42,7 +42,3 @@ Every solution file starts with a short header so I (or anyone else) can underst
 | Jun 18, 2026 | 980 | 0 (repo start) | Beginning focused binary search practice |
 
 *(updated periodically — full daily log kept separately)*
-
-## Why this repo exists
-
-Years of writing app logic with nothing to show for it because frontend/deployment killed my motivation every time. This is different — every commit here is a solved problem, no deployment required, no UI to fight with. Just proof of consistent work.
